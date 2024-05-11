@@ -1,0 +1,1311 @@
+{
+  "movies": [
+    {
+      "Title": "Pulp Fiction",
+      "Year": "1994",
+      "Rated": "R",
+      "Released": "14 Oct 1994",
+      "Runtime": "154 min",
+      "Genre": "Crime, Drama",
+      "Director": "Quentin Tarantino",
+      "Writer": "Quentin Tarantino, Roger Avary",
+      "Actors": "John Travolta, Uma Thurman, Samuel L. Jackson",
+      "Plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "Language": "English, Spanish, French",
+      "Country": "United States",
+      "Awards": "Won 1 Oscar. 69 wins & 72 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "95/100"
+        }
+      ],
+      "Metascore": "95",
+      "imdbRating": "8.9",
+      "imdbVotes": "2,214,670",
+      "imdbID": "tt0110912",
+      "Type": "movie",
+      "DVD": "21 Apr 2016",
+      "BoxOffice": "$107,928,762",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Game of Thrones",
+      "Year": "2011–2019",
+      "Rated": "TV-MA",
+      "Released": "17 Apr 2011",
+      "Runtime": "57 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "N/A",
+      "Writer": "David Benioff, D.B. Weiss",
+      "Actors": "Emilia Clarke, Peter Dinklage, Kit Harington",
+      "Plot": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+      "Language": "English",
+      "Country": "United States, United Kingdom",
+      "Awards": "Won 59 Primetime Emmys. 389 wins & 636 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2IzYzBiOTQtNGZmMi00NDI5LTgxMzMtN2EzZjA1NjhlOGMxXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "9.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "9.2",
+      "imdbVotes": "2,275,721",
+      "imdbID": "tt0944947",
+      "Type": "series",
+      "totalSeasons": "8",
+      "Response": "True"
+    },
+    {
+      "Title": "Titanic",
+      "Year": "1997",
+      "Rated": "PG-13",
+      "Released": "19 Dec 1997",
+      "Runtime": "194 min",
+      "Genre": "Drama, Romance",
+      "Director": "James Cameron",
+      "Writer": "James Cameron",
+      "Actors": "Leonardo DiCaprio, Kate Winslet, Billy Zane",
+      "Plot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+      "Language": "English, Swedish, Italian, French",
+      "Country": "United States, Mexico",
+      "Awards": "Won 11 Oscars. 126 wins & 83 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "88%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "75/100"
+        }
+      ],
+      "Metascore": "75",
+      "imdbRating": "7.9",
+      "imdbVotes": "1,280,439",
+      "imdbID": "tt0120338",
+      "Type": "movie",
+      "DVD": "01 Jun 2014",
+      "BoxOffice": "$674,292,608",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Jeeves and Wooster",
+      "Year": "1990–1993",
+      "Rated": "TV-PG",
+      "Released": "22 Apr 1990",
+      "Runtime": "55 min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Stephen Fry, Hugh Laurie, Richard Dixon",
+      "Plot": "Bertram Wooster, a well-intentioned, wealthy layabout, has a habit of getting himself into trouble and it's up to his brilliant valet, Jeeves, to get him out.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "Won 2 BAFTA 2 wins & 3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTExZDVkM2YtZTJkMS00NmU4LTk4YmQtZDZkOTJjMzZlYWFiXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.5",
+      "imdbVotes": "13,115",
+      "imdbID": "tt0098833",
+      "Type": "series",
+      "totalSeasons": "4",
+      "Response": "True"
+    },
+    {
+      "Title": "The Dark Knight",
+      "Year": "2008",
+      "Rated": "PG-13",
+      "Released": "18 Jul 2008",
+      "Runtime": "152 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Christopher Nolan",
+      "Writer": "Jonathan Nolan, Christopher Nolan, David S. Goyer",
+      "Actors": "Christian Bale, Heath Ledger, Aaron Eckhart",
+      "Plot": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "Language": "English, Mandarin",
+      "Country": "United States, United Kingdom",
+      "Awards": "Won 2 Oscars. 163 wins & 164 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "9.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "84/100"
+        }
+      ],
+      "Metascore": "84",
+      "imdbRating": "9.0",
+      "imdbVotes": "2,869,224",
+      "imdbID": "tt0468569",
+      "Type": "movie",
+      "DVD": "14 Jun 2010",
+      "BoxOffice": "$534,987,076",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Band of Brothers",
+      "Year": "2001",
+      "Rated": "TV-MA",
+      "Released": "09 Sep 2001",
+      "Runtime": "594 min",
+      "Genre": "Drama, History, War",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Scott Grimes, Damian Lewis, Ron Livingston",
+      "Plot": "The story of Easy Company of the U.S. Army 101st Airborne Division and their mission in World War II Europe, from Operation Overlord to V-J Day.",
+      "Language": "English, Dutch, French, German, Lithuanian",
+      "Country": "United Kingdom, United States",
+      "Awards": "Won 6 Primetime Emmys. 34 wins & 26 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTI3ODc2ODc0M15BMl5BanBnXkFtZTYwMjgzNjc3._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "9.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "9.4",
+      "imdbVotes": "521,699",
+      "imdbID": "tt0185906",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    },
+    {
+      "Title": "Life Is Beautiful",
+      "Year": "1997",
+      "Rated": "PG-13",
+      "Released": "20 Dec 1997",
+      "Runtime": "116 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Roberto Benigni",
+      "Writer": "Vincenzo Cerami, Roberto Benigni",
+      "Actors": "Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini",
+      "Plot": "When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp.",
+      "Language": "Italian, German, English",
+      "Country": "Italy",
+      "Awards": "Won 3 Oscars. 72 wins & 52 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "81%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "59/100"
+        }
+      ],
+      "Metascore": "59",
+      "imdbRating": "8.6",
+      "imdbVotes": "742,074",
+      "imdbID": "tt0118799",
+      "Type": "movie",
+      "DVD": "25 Oct 2016",
+      "BoxOffice": "$57,563,264",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "ALF",
+      "Year": "1986–1990",
+      "Rated": "TV-G",
+      "Released": "22 Sep 1986",
+      "Runtime": "1 min",
+      "Genre": "Comedy, Family, Sci-Fi",
+      "Director": "N/A",
+      "Writer": "Tom Patchett, Paul Fusco",
+      "Actors": "Mihaly 'Michu' Meszaros, Paul Fusco, Max Wright",
+      "Plot": "When an ugly creature, who loves eating cats, crash-lands into the Terran family's garage, they treat him as a guest and allow him to live with them as he comments on the stupidity of mankind.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "7 wins & 14 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "38,886",
+      "imdbID": "tt0090390",
+      "Type": "series",
+      "totalSeasons": "4",
+      "Response": "True"
+    },
+    {
+      "Title": "The Godfather",
+      "Year": "1972",
+      "Rated": "R",
+      "Released": "24 Mar 1972",
+      "Runtime": "175 min",
+      "Genre": "Crime, Drama",
+      "Director": "Francis Ford Coppola",
+      "Writer": "Mario Puzo, Francis Ford Coppola",
+      "Actors": "Marlon Brando, Al Pacino, James Caan",
+      "Plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "Language": "English, Italian, Latin",
+      "Country": "United States",
+      "Awards": "Won 3 Oscars. 31 wins & 31 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "9.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "100/100"
+        }
+      ],
+      "Metascore": "100",
+      "imdbRating": "9.2",
+      "imdbVotes": "2,007,621",
+      "imdbID": "tt0068646",
+      "Type": "movie",
+      "DVD": "01 Aug 2013",
+      "BoxOffice": "$136,381,073",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The Black Donnellys",
+      "Year": "2007",
+      "Rated": "TV-14",
+      "Released": "26 Feb 2007",
+      "Runtime": "60 min",
+      "Genre": "Crime, Drama",
+      "Director": "N/A",
+      "Writer": "Paul Haggis, Bobby Moresco",
+      "Actors": "Jonathan Tucker, Tom Guiry, Olivia Wilde",
+      "Plot": "Four young Irish brothers are caught up in New York's underworld of organized crime.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "2 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzg0MDViMGQtYzY1Ni00YzFhLTg5NzctNzg3YWFkMDg3ZTk3XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.1",
+      "imdbVotes": "14,345",
+      "imdbID": "tt0805661",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    },
+    {
+      "Title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "Year": "2003",
+      "Rated": "PG-13",
+      "Released": "09 Jul 2003",
+      "Runtime": "143 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "Gore Verbinski",
+      "Writer": "Ted Elliott, Terry Rossio, Stuart Beattie",
+      "Actors": "Johnny Depp, Geoffrey Rush, Orlando Bloom",
+      "Plot": "Blacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 5 Oscars. 38 wins & 104 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "80%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "63/100"
+        }
+      ],
+      "Metascore": "63",
+      "imdbRating": "8.1",
+      "imdbVotes": "1,204,608",
+      "imdbID": "tt0325980",
+      "Type": "movie",
+      "DVD": "23 Nov 2015",
+      "BoxOffice": "$305,413,918",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Rookie Blue",
+      "Year": "2010–2015",
+      "Rated": "TV-14",
+      "Released": "24 Jun 2010",
+      "Runtime": "1 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "N/A",
+      "Writer": "Morwyn Brebner, Tassie Cameron, Ellen Vanstone",
+      "Actors": "Missy Peregrym, Gregory Smith, Enuka Okuma",
+      "Plot": "Andy McNally and her friends are out of the academy and must adjust to the challenging life of a police officer at the 15th Division in Toronto.",
+      "Language": "English",
+      "Country": "Canada",
+      "Awards": "2 wins & 31 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2I3YjIyNzItYTVkNy00MmRiLTljNTYtZjYzZGNiOTVlNWQzXkEyXkFqcGdeQXVyMTA1OTAyOTI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.7",
+      "imdbVotes": "18,502",
+      "imdbID": "tt1442065",
+      "Type": "series",
+      "totalSeasons": "6",
+      "Response": "True"
+    },
+    {
+      "Title": "Falling in Love Like in Movies",
+      "Year": "2023",
+      "Rated": "N/A",
+      "Released": "30 Nov 2023",
+      "Runtime": "118 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Yandy Laurens",
+      "Writer": "Yandy Laurens",
+      "Actors": "Ringgo Agus Rahman, Nirina Zubir, Alex Abbad",
+      "Plot": "Bagus, a screenwriter, reunites with his high school friend and crush, Hana, who is still grieving from the loss of her husband. He wants to convince her to fall in love once again, just like in the movies.",
+      "Language": "Indonesian",
+      "Country": "Indonesia",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTc3MDY4YWItZjJlZS00N2YyLThiZjAtOWI0OWRjY2VkNWRmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.6",
+      "imdbVotes": "873",
+      "imdbID": "tt26903085",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Lost",
+      "Year": "2004–2010",
+      "Rated": "TV-14",
+      "Released": "22 Sep 2004",
+      "Runtime": "44 min",
+      "Genre": "Adventure, Drama, Fantasy",
+      "Director": "N/A",
+      "Writer": "J.J. Abrams, Jeffrey Lieber, Damon Lindelof",
+      "Actors": "Jorge Garcia, Josh Holloway, Yunjin Kim",
+      "Plot": "The survivors of a plane crash are forced to work together in order to survive on a seemingly deserted tropical island.",
+      "Language": "English, Portuguese, Spanish, Arabic, French, Korean, German, Latin, Russian, Japanese",
+      "Country": "United States",
+      "Awards": "Won 10 Primetime Emmys. 114 wins & 399 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzhlY2E5NDUtYjJjYy00ODg3LWFkZWQtYTVmMzU4ZWZmOWJkXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "80%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.3",
+      "imdbVotes": "595,875",
+      "imdbID": "tt0411008",
+      "Type": "series",
+      "totalSeasons": "6",
+      "Response": "True"
+    },
+    {
+      "Title": "Life Ain't Like the Movies",
+      "Year": "2021",
+      "Rated": "N/A",
+      "Released": "09 Nov 2021",
+      "Runtime": "85 min",
+      "Genre": "Drama",
+      "Director": "Robert Mychal Patrick Butler",
+      "Writer": "Robert Mychal Patrick Butler",
+      "Actors": "Paul Bates, Cynda Williams, Grace Aubry",
+      "Plot": "The coming age story of a 16 year old quirky black teen. The film follows him as he goes through high school. He deals with various issues like love, death, bullies, and social awkwardness.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "10 wins & 17 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGQxZjIxYzgtYWY5OC00YzFiLWI0YjMtNjAyMTM5ODY4NzUzXkEyXkFqcGdeQXVyNjYyNDcyMzY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.1",
+      "imdbVotes": "415",
+      "imdbID": "tt10627530",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Spin City",
+      "Year": "1996–2002",
+      "Rated": "TV-14",
+      "Released": "17 Sep 1996",
+      "Runtime": "30 min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "Gary David Goldberg, Bill Lawrence",
+      "Actors": "Michael J. Fox, Charlie Sheen, Heather Locklear",
+      "Plot": "Mike Flaherty, the Deputy Mayor of New York City, and his team of half-wits must constantly save the Mayor from embarrassment and the media. Mike is later succeeded by Charlie Crawford.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 2 Primetime Emmys. 14 wins & 38 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGRkNTZmMzUtY2RhYS00MDQ3LWJmZmMtMzFkNWIxYzNlNDFhXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "30,721",
+      "imdbID": "tt0115369",
+      "Type": "series",
+      "totalSeasons": "6",
+      "Response": "True"
+    },
+    {
+      "Title": "3 Idiots",
+      "Year": "2009",
+      "Rated": "PG-13",
+      "Released": "25 Dec 2009",
+      "Runtime": "170 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Rajkumar Hirani",
+      "Writer": "Abhijat Joshi, Rajkumar Hirani, Vidhu Vinod Chopra",
+      "Actors": "Aamir Khan, Madhavan, Mona Singh",
+      "Plot": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\".",
+      "Language": "Hindi, English",
+      "Country": "India",
+      "Awards": "65 wins & 30 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "67/100"
+        }
+      ],
+      "Metascore": "67",
+      "imdbRating": "8.4",
+      "imdbVotes": "434,507",
+      "imdbID": "tt1187043",
+      "Type": "movie",
+      "DVD": "29 Nov 2016",
+      "BoxOffice": "$6,532,874",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Firefly",
+      "Year": "2002–2003",
+      "Rated": "TV-14",
+      "Released": "20 Sep 2002",
+      "Runtime": "44 min",
+      "Genre": "Adventure, Drama, Sci-Fi",
+      "Director": "N/A",
+      "Writer": "Joss Whedon",
+      "Actors": "Nathan Fillion, Gina Torres, Alan Tudyk",
+      "Plot": "Five hundred years in the future, a renegade crew aboard a small spacecraft tries to survive as they travel the unknown parts of the galaxy and evade warring factions as well as authority agents out to get them.",
+      "Language": "English, Mandarin, Cantonese",
+      "Country": "United States",
+      "Awards": "Won 1 Primetime Emmy. 5 wins & 8 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTcwNzkwMDItZmM1OC00MmQ2LTgxYjgtOTNiNDgxZDAxMjk0XkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "9.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "9.0",
+      "imdbVotes": "280,879",
+      "imdbID": "tt0303461",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    },
+    {
+      "Title": "Homeland",
+      "Year": "2011–2020",
+      "Rated": "TV-MA",
+      "Released": "02 Oct 2011",
+      "Runtime": "55 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "Alex Gansa, Howard Gordon",
+      "Actors": "Claire Danes, Mandy Patinkin, Damian Lewis",
+      "Plot": "A bipolar CIA operative becomes convinced a prisoner of war has been turned by al-Qaeda and is planning to carry out a terrorist attack on American soil.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 8 Primetime Emmys. 61 wins & 182 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2Q1YzUxYTYtOTkwZC00Mjk3LTllZWQtNThjYjllZjE2OTQwXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.3",
+      "imdbVotes": "360,829",
+      "imdbID": "tt1796960",
+      "Type": "series",
+      "totalSeasons": "8",
+      "Response": "True"
+    },
+    {
+      "Title": "La piovra",
+      "Year": "1984–2001",
+      "Rated": "TV-14",
+      "Released": "11 Mar 1984",
+      "Runtime": "402 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "N/A",
+      "Writer": "Lucio Battistrada, Massimo De Rita",
+      "Actors": "Remo Girone, Patricia Millardet, Michele Placido",
+      "Plot": "An epic crime saga of power, money, violence and corruption. the mafia controls everything through local and international networks like an octopus, anyone who tries to bring them down pays the ultimate price.",
+      "Language": "Italian",
+      "Country": "Italy, Austria, France, United Kingdom, Germany, Spain, Sweden",
+      "Awards": "5 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjFiMzg0ZDYtZWRmZi00NjlkLWI3MmEtYTE5YTFkMmU1YzE0XkEyXkFqcGdeQXVyNTI4NzA1OTk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.4",
+      "imdbVotes": "3,956",
+      "imdbID": "tt0086779",
+      "Type": "series",
+      "totalSeasons": "8",
+      "Response": "True"
+    },
+    {
+      "Title": "Dhoom",
+      "Year": "2004",
+      "Rated": "Not Rated",
+      "Released": "27 Aug 2004",
+      "Runtime": "129 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Sanjay Gadhvi",
+      "Writer": "Vijay Krishna Acharya",
+      "Actors": "Abhishek Bachchan, John Abraham, Uday Chopra",
+      "Plot": "Dhoom reinvents the classic cops and robbers tale for the 21st century. Fast bikes, big action, and non-stop fun make for a thrilling story.",
+      "Language": "Hindi, English",
+      "Country": "India",
+      "Awards": "17 wins & 27 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTk3MDNhODEtMWYyMC00NmVjLTg3NzgtNjI1MzA4ZmVhMjE2XkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.6",
+      "imdbVotes": "22,267",
+      "imdbID": "tt0422091",
+      "Type": "movie",
+      "DVD": "08 Mar 2017",
+      "BoxOffice": "$245,756",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Bollywood",
+      "Year": "1994",
+      "Rated": "N/A",
+      "Released": "16 Sep 1994",
+      "Runtime": "120 min",
+      "Genre": "Action, Comedy, Musical",
+      "Director": "B.J. Khan",
+      "Writer": "B.J. Khan, Shashi Tharoor",
+      "Actors": "Tinnu Anand, Govardhan Asrani, Veena Bidasha",
+      "Plot": "Abulah seeks revenge on Pak Daddy and Vihishnu for the death of his wife. A series of funny and mindless events ensue.",
+      "Language": "English",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDRjMjVmY2EtNzBlNi00Yzg2LWJlYWEtNDc4OThjMTZmMDk4XkEyXkFqcGdeQXVyMjM5NDM1MTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "3.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "3.5",
+      "imdbVotes": "64",
+      "imdbID": "tt0109313",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Stargate Universe",
+      "Year": "2009–2011",
+      "Rated": "TV-PG",
+      "Released": "02 Oct 2009",
+      "Runtime": "43 min",
+      "Genre": "Drama, Sci-Fi",
+      "Director": "N/A",
+      "Writer": "Robert C. Cooper, Brad Wright",
+      "Actors": "Robert Carlyle, Louis Ferreira, Brian J. Smith",
+      "Plot": "Trapped on an Ancient spaceship billions of light-years from home, a group of soldiers and civilians struggle to survive and find their way back to Earth.",
+      "Language": "English",
+      "Country": "Canada, United States",
+      "Awards": "Nominated for 3 Primetime Emmys. 9 wins & 29 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTEzNTY5NDY5M15BMl5BanBnXkFtZTcwMTY4MDQ3Mg@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.6",
+      "imdbVotes": "53,296",
+      "imdbID": "tt1286039",
+      "Type": "series",
+      "totalSeasons": "2",
+      "Response": "True"
+    },
+    {
+      "Title": "Californication",
+      "Year": "2007–2014",
+      "Rated": "TV-MA",
+      "Released": "13 Aug 2007",
+      "Runtime": "28 min",
+      "Genre": "Comedy, Drama",
+      "Director": "N/A",
+      "Writer": "Tom Kapinos",
+      "Actors": "David Duchovny, Natascha McElhone, Evan Handler",
+      "Plot": "A writer tries to juggle his career, his relationship with his daughter and his ex-girlfriend, as well as his appetite for beautiful women.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 2 Primetime Emmys. 6 wins & 32 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAyMDM2ODExNF5BMl5BanBnXkFtZTgwNTI2MjkzMTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.3",
+      "imdbVotes": "188,068",
+      "imdbID": "tt0904208",
+      "Type": "series",
+      "totalSeasons": "7",
+      "Response": "True"
+    },
+    {
+      "Title": "The X-Files",
+      "Year": "1993–2018",
+      "Rated": "TV-14",
+      "Released": "10 Sep 1993",
+      "Runtime": "45 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "Chris Carter",
+      "Actors": "David Duchovny, Gillian Anderson, Mitch Pileggi",
+      "Plot": "Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 16 Primetime Emmys. 102 wins & 217 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDA0MmM4YzUtMzYwZC00OGI2LWE0ODctNzNhNTkwN2FmNTVhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.6",
+      "imdbVotes": "248,038",
+      "imdbID": "tt0106179",
+      "Type": "series",
+      "totalSeasons": "11",
+      "Response": "True"
+    },
+    {
+      "Title": "PK",
+      "Year": "2014",
+      "Rated": "Not Rated",
+      "Released": "19 Dec 2014",
+      "Runtime": "153 min",
+      "Genre": "Comedy, Drama, Sci-Fi",
+      "Director": "Rajkumar Hirani",
+      "Writer": "Rajkumar Hirani, Abhijat Joshi",
+      "Actors": "Aamir Khan, Anushka Sharma, Sanjay Dutt",
+      "Plot": "An alien on Earth loses the only device he can use to communicate with his spaceship. His innocent nature and child-like questions force the country to evaluate the impact of religious views on people.",
+      "Language": "Hindi",
+      "Country": "India",
+      "Awards": "21 wins & 25 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg5NzIzMzEyOF5BMl5BanBnXkFtZTgwMjgzMTg0MzE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "80%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.1",
+      "imdbVotes": "201,284",
+      "imdbID": "tt2338151",
+      "Type": "movie",
+      "DVD": "26 Mar 2017",
+      "BoxOffice": "$10,616,104",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Mirzapur",
+      "Year": "2018–",
+      "Rated": "TV-MA",
+      "Released": "15 Nov 2018",
+      "Runtime": "60 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "N/A",
+      "Writer": "Puneet Krishna, Karan Anshuman",
+      "Actors": "Pankaj Tripathi, Ali Fazal, Divyendu Sharma",
+      "Plot": "A shocking incident at a wedding procession ignites a series of events entangling the lives of two families in the lawless city of Mirzapur.",
+      "Language": "Hindi",
+      "Country": "India",
+      "Awards": "9 wins & 41 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2NlNGYwYTUtMTczMi00NGVjLTgwMzUtNjBkZjIyNDc2NjcxXkEyXkFqcGdeQXVyODQ5NDUwMDk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.5",
+      "imdbVotes": "81,800",
+      "imdbID": "tt6473300",
+      "Type": "series",
+      "totalSeasons": "3",
+      "Response": "True"
+    },
+    {
+      "Title": "Dabbang Daroga",
+      "Year": "2018",
+      "Rated": "N/A",
+      "Released": "10 Aug 2018",
+      "Runtime": "N/A",
+      "Genre": "Action",
+      "Director": "Abhishek Singh",
+      "Writer": "Uttam Tiwari",
+      "Actors": "Anuj Sharma, Jeet Sharma, Reema Singh",
+      "Plot": "N/A",
+      "Language": "Chhattisgarhi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt25052104",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Dabangg",
+      "Year": "2010",
+      "Rated": "Not Rated",
+      "Released": "10 Sep 2010",
+      "Runtime": "126 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Abhinav Kashyap",
+      "Writer": "Dilip Shukla, Abhinav Kashyap",
+      "Actors": "Salman Khan, Sonakshi Sinha, Sonu Sood",
+      "Plot": "A corrupt police officer faces challenges from his family, gangsters and politicians.",
+      "Language": "Hindi",
+      "Country": "India",
+      "Awards": "76 wins & 31 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMyOTQ0Mzg2Ml5BMl5BanBnXkFtZTcwMDcyOTM5NA@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "60%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.2",
+      "imdbVotes": "34,089",
+      "imdbID": "tt1620719",
+      "Type": "movie",
+      "DVD": "30 Nov 2016",
+      "BoxOffice": "$1,288,549",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Sacred Games",
+      "Year": "2018–2019",
+      "Rated": "TV-MA",
+      "Released": "06 Jul 2018",
+      "Runtime": "1 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "N/A",
+      "Writer": "Varun Grover",
+      "Actors": "Saif Ali Khan, Nawazuddin Siddiqui, Neeraj Kabi",
+      "Plot": "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm.",
+      "Language": "Hindi",
+      "Country": "India, United States",
+      "Awards": "15 wins & 17 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjJlMjJlMzYtNmU5Yy00N2MwLWJmMjEtNWUwZWIyMGViZDgyXkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.5",
+      "imdbVotes": "92,343",
+      "imdbID": "tt6077448",
+      "Type": "series",
+      "totalSeasons": "2",
+      "Response": "True"
+    },
+    {
+      "Title": "Sanju",
+      "Year": "2018",
+      "Rated": "TV-MA",
+      "Released": "29 Jun 2018",
+      "Runtime": "155 min",
+      "Genre": "Biography, Comedy, Drama",
+      "Director": "Rajkumar Hirani",
+      "Writer": "Abhiruchi Chand, Rajkumar Hirani, Abhijat Joshi",
+      "Actors": "Ranbir Kapoor, Paresh Rawal, Manisha Koirala",
+      "Plot": "Biopic of the controversial life of actor Sanjay Dutt: his film career, jail sentence, and personal life.",
+      "Language": "Hindi",
+      "Country": "India",
+      "Awards": "19 wins & 32 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWM1NDdhMTEtNWViZi00ZmM0LWJjZmEtZDVkN2RlYWM1ZDZjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "41%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.6",
+      "imdbVotes": "61,105",
+      "imdbID": "tt6452574",
+      "Type": "movie",
+      "DVD": "15 Oct 2018",
+      "BoxOffice": "$7,909,317",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Dehati Ladke",
+      "Year": "2023–",
+      "Rated": "N/A",
+      "Released": "15 Dec 2023",
+      "Runtime": "N/A",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "Saurabh Tewari",
+      "Actors": "Saamya Jainn, Raghav Sharma, Shine Pandey",
+      "Plot": "Rajat leaves his village for the big city to study for civil service exams. He finds freedom and love but struggles to balance relationships, family expectations and his ambitions.",
+      "Language": "Hindi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE0MjQ3NWQtNDA4MC00YzMyLTk1YjktNDdmMmQ1MDVlYjA4XkEyXkFqcGdeQXVyMTk4OTg1Mzc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "112",
+      "imdbID": "tt29959616",
+      "Type": "series",
+      "totalSeasons": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Utthamma Villian C/0 Mahadevpuram",
+      "Year": "2022",
+      "Rated": "N/A",
+      "Released": "30 Dec 2022",
+      "Runtime": "118 min",
+      "Genre": "Action, Comedy",
+      "Director": "Rajareddy Panuganti",
+      "Writer": "Vutkuri Sai Laxmi Narayana Goud",
+      "Actors": "Sravika Ananthula, Suresh Dhanalakoti, Kakaraboina Harish Kumar",
+      "Plot": "N/A",
+      "Language": "Telugu",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWU0ZGZlZDQtODQyNi00OTA4LWE1NDEtNDRjMjIxZWY0Nzk4XkEyXkFqcGdeQXVyMTUyMTk3NDMw._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "15",
+      "imdbID": "tt25393258",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Aspirants",
+      "Year": "2021–",
+      "Rated": "N/A",
+      "Released": "07 Apr 2021",
+      "Runtime": "3 min",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "Deepesh Sumitra Jagdish, Arunabh Kumar, Shreyansh Pandey",
+      "Actors": "Naveen Kasturia, Shivankit Singh Parihar, Abhilash Thapliyal",
+      "Plot": "It is the story of the journey of three UPSC (public service competitive exams in India) aspirants and their friendship against all odds.",
+      "Language": "Hindi",
+      "Country": "India",
+      "Awards": "4 wins & 10 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWIzMDEyOTItNzA0OC00YmU1LTk3OWUtNjM4ZmE4ZDcyNWZmXkEyXkFqcGdeQXVyMTExMTIzMTA5._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "9.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "9.2",
+      "imdbVotes": "309,924",
+      "imdbID": "tt14392248",
+      "Type": "series",
+      "totalSeasons": "2",
+      "Response": "True"
+    },
+    {
+      "Title": "Interstellar",
+      "Year": "2014",
+      "Rated": "PG-13",
+      "Released": "07 Nov 2014",
+      "Runtime": "169 min",
+      "Genre": "Adventure, Drama, Sci-Fi",
+      "Director": "Christopher Nolan",
+      "Writer": "Jonathan Nolan, Christopher Nolan",
+      "Actors": "Matthew McConaughey, Anne Hathaway, Jessica Chastain",
+      "Plot": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+      "Language": "English",
+      "Country": "United States, United Kingdom, Canada",
+      "Awards": "Won 1 Oscar. 44 wins & 148 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "73%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "74/100"
+        }
+      ],
+      "Metascore": "74",
+      "imdbRating": "8.7",
+      "imdbVotes": "2,097,749",
+      "imdbID": "tt0816692",
+      "Type": "movie",
+      "DVD": "24 May 2016",
+      "BoxOffice": "$188,020,017",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Fida",
+      "Year": "2004",
+      "Rated": "Not Rated",
+      "Released": "20 Aug 2004",
+      "Runtime": "122 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Ken Ghosh",
+      "Writer": "Lalit Mahajan, Sunny Mahajan, Kiran Kotrial",
+      "Actors": "Kareena Kapoor, Fardeen Khan, Shahid Kapoor",
+      "Plot": "A young man is hellbent to destroy his arch enemy and his lover, who destroyed his life.",
+      "Language": "Hindi",
+      "Country": "India",
+      "Awards": "5 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWIwOWZkZjYtMmZkMy00OTk1LTg4ZWMtNmE3YTJiYzA2NjU5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.4",
+      "imdbVotes": "2,922",
+      "imdbID": "tt0422236",
+      "Type": "movie",
+      "DVD": "09 Sep 2016",
+      "BoxOffice": "$98,297",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "National Security",
+      "Year": "2003",
+      "Rated": "PG-13",
+      "Released": "17 Jan 2003",
+      "Runtime": "88 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Dennis Dugan",
+      "Writer": "Jay Scherick, David Ronn",
+      "Actors": "Martin Lawrence, Steve Zahn, Colm Feore",
+      "Plot": "Two mismatched security guards are thrown together to bust a smuggling operation.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTgzZDQzNTQtY2NmMC00YTM1LWEwYmEtZGIwNmJmOTdiOTZlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "11%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "31/100"
+        }
+      ],
+      "Metascore": "31",
+      "imdbRating": "5.6",
+      "imdbVotes": "54,111",
+      "imdbID": "tt0271668",
+      "Type": "movie",
+      "DVD": "16 Apr 2012",
+      "BoxOffice": "$36,381,186",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Couple Goals",
+      "Year": "2021",
+      "Rated": "N/A",
+      "Released": "14 Feb 2021",
+      "Runtime": "N/A",
+      "Genre": "Romance",
+      "Director": "N/A",
+      "Writer": "Nancy Redd, Cylla Senii",
+      "Actors": "Nancy Redd",
+      "Plot": "Hosted by Nancy Redd, two real life couples will go head to head in an epic competitive match where their love will be tested to reveal who will be our ultimate dream couple champions.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjc1YWEzODItZDdmOS00ZmI0LThlOTItYmYyNTlhYTIzZTBjXkEyXkFqcGdeQXVyMTQ1MjE2NTQ@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt22330556",
+      "Type": "series",
+      "totalSeasons": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Gran Torino",
+      "Year": "2008",
+      "Rated": "R",
+      "Released": "09 Jan 2009",
+      "Runtime": "116 min",
+      "Genre": "Drama",
+      "Director": "Clint Eastwood",
+      "Writer": "Nick Schenk, Dave Johannson",
+      "Actors": "Clint Eastwood, Bee Vang, Christopher Carley",
+      "Plot": "After a Hmong teenager tries to steal his prized 1972 Gran Torino, a disgruntled, prejudiced Korean War veteran seeks to redeem both the boy and himself.",
+      "Language": "English, Hmong",
+      "Country": "Germany, United States",
+      "Awards": "21 wins & 22 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "81%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "72/100"
+        }
+      ],
+      "Metascore": "72",
+      "imdbRating": "8.1",
+      "imdbVotes": "814,310",
+      "imdbID": "tt1205489",
+      "Type": "movie",
+      "DVD": "30 Nov 2010",
+      "BoxOffice": "$148,095,302",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Bullitt",
+      "Year": "1968",
+      "Rated": "M/PG",
+      "Released": "17 Oct 1968",
+      "Runtime": "114 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Peter Yates",
+      "Writer": "Alan Trustman, Harry Kleiner, Robert L. Fish",
+      "Actors": "Steve McQueen, Jacqueline Bisset, Robert Vaughn",
+      "Plot": "A nonconformist San Francisco cop is determined to find the underworld kingpin who killed the witness under his protection.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 1 Oscar. 7 wins & 9 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGRjYzhmMGUtZjAyNy00NDkwLWI2ZmItMzJjYmYwM2JkYjkzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "81/100"
+        }
+      ],
+      "Metascore": "81",
+      "imdbRating": "7.4",
+      "imdbVotes": "75,830",
+      "imdbID": "tt0062765",
+      "Type": "movie",
+      "DVD": "01 Sep 2008",
+      "BoxOffice": "$511,350",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  ]
+}
